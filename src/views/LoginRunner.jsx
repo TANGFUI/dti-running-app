@@ -72,6 +72,9 @@ function LoginRunner() {
                 <Link to='/runner/registerrunner' style={{ textDecoration: 'none', color: '#ff0000' }}>
                   ลงทะเบียน
                 </Link>
+                <Typography sx={{ mt: 4, textAlign: 'center' }}>
+                  By  Suwimol Hongaon
+                </Typography>
               </Typography>
             </Typography>
           </Box>
